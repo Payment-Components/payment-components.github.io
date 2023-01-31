@@ -1,1 +1,0 @@
-# paymentcomponents.github.io

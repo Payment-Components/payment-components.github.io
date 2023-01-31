@@ -1,0 +1,2 @@
+- finaplo.AI
+    - [iso20022-sanitizer-application](./finaplo.ai/iso20022-sanintizer-application.md)
